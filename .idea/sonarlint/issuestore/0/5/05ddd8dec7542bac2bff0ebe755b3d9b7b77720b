@@ -1,0 +1,35 @@
+
+q
+java:S1989@"VHandle the following exception that could be thrown by "writeJsonObject": IOException.(˜Íˆ¸üÿÿÿÿ
+k
+java:S1989L"PHandle the following exception that could be thrown by "getReader": IOException.(—‰ü»üÿÿÿÿ
+k
+java:S1989+"UHandle the following exception that could be thrown by "writeJsonArray": IOException.(½ìÀ
+q
+java:S1989R"VHandle the following exception that could be thrown by "writeJsonObject": IOException.(˜Íˆ¸üÿÿÿÿ
+l
+java:S1989<"VHandle the following exception that could be thrown by "getJSONObject": JSONException.(Åù‚Ò
+_
+java:S1192("IDefine a constant instead of duplicating this literal "favorite" 3 times.(¿ˆë­
+H
+java:S1128"2Remove this unused import 'db.MySQLTableCreation'.(ºé®õ
+h
+java:S1989;"RHandle the following exception that could be thrown by "getString": JSONException.(¡¨š‰
+e
+java:S19899"OHandle the following exception that could be thrown by "toString": IOException.(ÉÅ…
+g
+java:S1989@"LHandle the following exception that could be thrown by "put": JSONException.(˜Íˆ¸üÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "user_id" 3 times.(¢îØ×
+b
+java:S1989("LHandle the following exception that could be thrown by "put": JSONException.(¿ˆë­
+f
+java:S19899"PHandle the following exception that could be thrown by "getReader": IOException.(ÉÅ…
+j
+java:S1989L"OHandle the following exception that could be thrown by "toString": IOException.(—‰ü»üÿÿÿÿ
+g
+java:S1989R"LHandle the following exception that could be thrown by "put": JSONException.(˜Íˆ¸üÿÿÿÿ
+t
+java:S1989M"RHandle the following exception that could be thrown by "getString": JSONException.(çş¢—şÿÿÿÿ8»ÚèÜÈ.
+s
+java:S1989N"VHandle the following exception that could be thrown by "getJSONObject": JSONException.(‰İ†¬8»ÚèÜÈ.

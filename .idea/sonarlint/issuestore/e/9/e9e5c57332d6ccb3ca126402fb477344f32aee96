@@ -1,0 +1,11 @@
+
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ãº—ùÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(±Òñ¥üÿÿÿÿ
+I
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(šâ’ó
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ùÀ®‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã“Ìÿÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ

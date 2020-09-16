@@ -1,0 +1,50 @@
+
+k
+java:S1192&"UDefine a constant instead of duplicating this literal "DB connection failed" 9 times.(„½¦ü
+e
+java:S2095V"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§
+B
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(„½¦ü
+c
+java:S2095¹"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+V
+java:S1128"4Remove this unused import 'entity.Item.ItemBuilder'.(Ä¬É–ÿÿÿÿÿ8µ–ÙĞÁ.
+e
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(„½¦ü
+f
+java:S2095Ê"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+I
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(šâ’ó
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ÉşÊ 
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(„½¦ü
+b
+java:S2095m"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+e
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(„½¦ü
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+e
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(„½¦ü
+c
+java:S2095‡"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+c
+java:S2095¤"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+e
+java:S2095k"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+f
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+f
+java:S2095·"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+f
+java:S2095ß"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(„½¦ü
+f
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+c
+java:S2095Í"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(„½¦ü
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(„½¦ü
